@@ -17,6 +17,7 @@ namespace Shopping_Fast.Controllers
         {
             return View();
         }
+        
 
         public IActionResult Privacy()
         {
